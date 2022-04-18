@@ -47,7 +47,7 @@ class HomeScreen extends StatelessWidget {
               child: Padding(
                 padding: EdgeInsets.all(10),
                 child: Row(
-                  children: [
+                  children: const [
                     Icon(
                       Icons.badge,
                       color: Colors.teal,
